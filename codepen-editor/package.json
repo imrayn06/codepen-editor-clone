@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/imrayn06/codepen-editor-clone",
+  "homepage": "https://imrayn06.github.io/codepen-editor-clone",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
