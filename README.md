@@ -1,5 +1,7 @@
 # codepen-editor-clone
 
+Deployed on Netlify : https://warm-bombolone-a354fc.netlify.app/
+
 In the project directory, you can run:
 npm start
 
