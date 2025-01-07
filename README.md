@@ -8,7 +8,17 @@ A functional clone of CodePen's editor built using React and Vite. This applicat
 
 - **Code Editor**: Edit HTML, CSS, and JavaScript code.
 - **Live Preview**: See the output of your code in real time.
-- 
+
+## Screenshots 
+
+![Screenshot 2025-01-07 214726](https://github.com/user-attachments/assets/0f7b68a0-5540-498e-8234-418df831be18)
+
+![Screenshot 2025-01-07 214824](https://github.com/user-attachments/assets/161dbfcf-5a94-4de2-95eb-1434f0e2a07e)
+
+![Screenshot 2025-01-07 214854](https://github.com/user-attachments/assets/1351526d-96e9-4eca-8fa8-85daf6299dd4)
+
+
+
 ## Directory Structure
 
 ```
